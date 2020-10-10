@@ -17,29 +17,6 @@ Table of Contents
 *   [Credits](#Credits)
 *   [Support](#Support)
 
-* * *
-
-### Features
-
-* 100% responsive and clean theme
-
-* Optimized for mobile devices
-
-* Minimal design
-
-* Valid HTML5 code
-
-* Post sharing
-
-* Subscription form
-
-* Supports Disqus Comments
-
-* Instagram Feed
-
-* Ionicons Icons
-
-* Google Fonts
 
 
 * * *
